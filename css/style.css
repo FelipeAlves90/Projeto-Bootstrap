@@ -1,0 +1,67 @@
+.navbar-brand{
+    margin-left: 10px;
+}
+
+.navbar {
+    background-color: white;
+    padding-bottom: 5px;
+}
+
+.quem-somos{
+    background-color: silver;
+}
+
+.margin{
+    padding-top: 5px;
+    padding-bottom: 99px;
+}
+
+.titulo1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+}
+
+.texto1{
+    margin-top: 10px;
+}
+
+.parceiros{
+    padding-top: 100px;
+    background-color: dimgray;
+}
+
+.logo-dio{
+    padding-top: 100px;
+    height: 300px;
+}
+
+.servicos{
+    padding-top: 100px;
+    background-color: rgb(134, 133, 133);
+}
+
+.col-lg-6{
+    padding-top: 100px;
+}
+
+.celular{
+    padding-right: 30px;
+}
+
+.pc{
+    padding-left: 30px;
+}
+
+.last{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.serv{
+    color: white;
+}
+
+.par{
+    color: white;
+}
